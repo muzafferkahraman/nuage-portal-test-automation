@@ -1,10 +1,8 @@
-,##################################################################
+##################################################################
 #
-# JIRA2 NCMSDWANT-109
 # Develop UI QA test automation for framework apps
-# Subtask-4 v1.0
 #
-# by Muzaffer Kahraman Nokia IPO NME June 2021
+# by Muzaffer Kahraman 
 #
 ##################################################################
 
